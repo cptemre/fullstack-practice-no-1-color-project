@@ -1,3 +1,5 @@
+![Example](public/colorProject.png)
+
 # COLOR PROJECT
 
 ## FULLSTACK PRACTICE PROJECT NO: 1
