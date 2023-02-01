@@ -4,7 +4,7 @@
 
 ## FULLSTACK PRACTICE PROJECT NO: 1
 
-1. A fullstack version of my previous frontend project.
+1. A fullstack version of my previous frontend project to practice my skills using Javascript, NodeJS, ExpressJS, HTML, CSS.
 
 2. It changes the background color of page by click.
 
